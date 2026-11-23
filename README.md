@@ -108,3 +108,5 @@ psinco. A Software Atelier from Luxembourg.
 
 Myco Runner is free. You may download it, run it, show it, film it, and share the disk image
 unchanged and free of charge. See [LICENSE](LICENSE).
+
+Libraries and archives may copy and keep these files, including for legal deposit.
